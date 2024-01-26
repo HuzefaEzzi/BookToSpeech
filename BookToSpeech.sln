@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookToSpeech.FunctionsApp", "..\BareIsolated\BookToSpeech.FunctionsApp.csproj", "{C41D45DB-71E4-455C-914D-8C402BE70FE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookToSpeech.EpubParser", "EpubParser\BookToSpeech.EpubParser.csproj", "{5C96C5E0-C01C-49D8-BD1F-AACB76FBE9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41D45DB-71E4-455C-914D-8C402BE70FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41D45DB-71E4-455C-914D-8C402BE70FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41D45DB-71E4-455C-914D-8C402BE70FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41D45DB-71E4-455C-914D-8C402BE70FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C96C5E0-C01C-49D8-BD1F-AACB76FBE9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C96C5E0-C01C-49D8-BD1F-AACB76FBE9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C96C5E0-C01C-49D8-BD1F-AACB76FBE9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C96C5E0-C01C-49D8-BD1F-AACB76FBE9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C3DB40-6B96-4A8A-92BC-DEB95E86EC75}
+	EndGlobalSection
+EndGlobal
